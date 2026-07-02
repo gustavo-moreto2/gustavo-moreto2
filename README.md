@@ -21,7 +21,7 @@ Tenho 17 anos e estou construindo minha base em desenvolvimento web, lógica de 
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111)
 ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-b%C3%A1sico-68217a?style=flat-square&logo=csharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-intermedi%C3%A1rio-68217a?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-b%C3%A1sico-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
