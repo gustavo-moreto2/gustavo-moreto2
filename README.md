@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Sistemas na ETEC Deputado Ary de Camargo Pedroso, a ETEC da Paulista, em Piracicaba-SP.
 
-Tenho 17 anos e estou construindo minha base em desenvolvimento web, lógica de programação, banco de dados e cibersegurança.
+Tenho 17 anos e estou construindo minha base em desenvolvimento web, lógica de programação e fundamentos de cibersegurança.
 
 ![Desenvolvimento de Sistemas](https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-ETEC-2563eb?style=for-the-badge)
 ![Piracicaba SP](https://img.shields.io/badge/Piracicaba-SP-16a34a?style=for-the-badge)
@@ -12,21 +12,19 @@ Tenho 17 anos e estou construindo minha base em desenvolvimento web, lógica de 
 
 - Curso Desenvolvimento de Sistemas na ETEC da Paulista.
 - Gosto de criar sites, sistemas e soluções que possam ser usadas por pessoas reais.
-- Estou estudando desenvolvimento web, versionamento com Git/GitHub e fundamentos de cibersegurança.
+- Estou estudando desenvolvimento web, PHP, versionamento com Git/GitHub e fundamentos de cibersegurança.
 - Meu foco é evoluir como desenvolvedor e montar um portfólio com projetos práticos.
 
-## Tecnologias e ferramentas
+## Conhecimentos atuais
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=111)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-b%C3%A1sico-68217a?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-b%C3%A1sico-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
 
 ## Projeto em destaque
 
@@ -61,9 +59,11 @@ Projeto visual em HTML e CSS com proposta de webtoon inspirado em Minecraft.
 ## Atualmente estudando
 
 - Desenvolvimento web
-- JavaScript e TypeScript
-- React e Next.js
-- Banco de dados e Supabase
+- HTML, CSS e JavaScript
+- PHP
+- C# básico
+- C++ básico
+- Banco de dados
 - Git e GitHub
 - Fundamentos de cibersegurança
 
