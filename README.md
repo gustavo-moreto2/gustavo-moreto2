@@ -36,6 +36,18 @@ Site de floricultura desenvolvido com Next.js, React, TypeScript, Supabase e pai
 
 [Acessar repositório](https://github.com/gustavo-moreto2/pompeia-floricultura)
 
+### Care Together
+
+Site beneficente desenvolvido como projeto escolar, com páginas de doação, contato, saúde e apresentação dos desenvolvedores.
+
+[Acessar repositório](https://github.com/gustavo-moreto2/care-together-site)
+
+### Minecraft Webtoon
+
+Projeto visual em HTML e CSS com proposta de webtoon inspirado em Minecraft.
+
+[Acessar repositório](https://github.com/gustavo-moreto2/minecraft-webtoon)
+
 ## Certificado
 
 **Introdução à Cibersegurança**
