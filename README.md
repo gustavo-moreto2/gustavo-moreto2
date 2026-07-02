@@ -61,7 +61,7 @@ Projeto visual em HTML e CSS com proposta de webtoon inspirado em Minecraft.
 - Desenvolvimento web
 - HTML, CSS e JavaScript
 - PHP
-- C# básico
+- C# intermediário
 - C++ básico
 - Banco de dados
 - Git e GitHub
